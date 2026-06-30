@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h1>Hi, I'm Abdullah Ihab 👋</h1>
+<h1>Hi, I'm Abdallah Ehab 👋</h1>
 <p>Computer Science Student & Frontend Developer</p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -29,7 +29,7 @@
 ```javascript
 // A look into my tech profile
 
-const abdullahProfile = {
+const abdallahProfile = {
   name: "Abdullah Ihab Mohamed Helal",
   role: "Frontend Developer & CS Student",
   specialization: "Artificial Intelligence & Networks",
